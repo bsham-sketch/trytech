@@ -1676,6 +1676,18 @@ p {
   font-style: normal !important;
 }
 
+/* Post Author Avatar Circle */
+.post-author-avatar {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+.author-avatar-circle {
+  border-radius: 50% !important;
+  object-fit: cover;
+  width: 40px !important;
+  height: 40px !important;
+}
+
 /* Client Logos Grid */
 .elementor-widget-image-carousel .swiper-slide img {
   filter: grayscale(100%);
