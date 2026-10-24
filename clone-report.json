@@ -1,0 +1,13 @@
+{
+  "site": "https://triztek.com/",
+  "mode": "entire",
+  "startedAt": "2026-10-24T07:01:53.791Z",
+  "completedAt": "2026-10-24T07:05:42.437Z",
+  "pagesDiscovered": 25,
+  "pagesDownloaded": 25,
+  "pagesSkipped": 0,
+  "assetsDownloaded": 593,
+  "assetsMissing": 19,
+  "bytes": 46525192,
+  "errors": 57
+}
